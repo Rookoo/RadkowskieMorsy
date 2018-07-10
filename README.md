@@ -1,3 +1,3 @@
 # RadkowskieMorsy
 
-http://radkowskie.morsy.ct8.pl
+http://radkowskie.morsy.seba124.usermd.net/
